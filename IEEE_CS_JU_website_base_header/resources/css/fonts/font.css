@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "montserrat_arabic";
+    src: url(Light_300.woff2);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "montserrat_arabic";
+    src: url(Regular_400.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "montserrat_arabic";
+    src: url(Medium_500.woff2);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "montserrat_arabic";
+    src: url(Bold_700.woff2);
+    font-weight: 700;
+}
+
+
+
+
+
